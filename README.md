@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning .Net Core and JavaScript
+- 👯 I’m looking to collaborate on Core application
+- 💬 Ask me about C# 
+- 📫 How to reach me: [Facebook](https://www.facebook.com/rahathosen.cse/)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahathosen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Rahat's github stats](https://github-readme-stats.vercel.app/api?username=rahathosen&show_icons=true&theme=radical)
+
 <!--
 **rahathosen/rahathosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
