@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahathosen&label=Profile%20views&color=0e75b6&style=flat" alt="rahathosen" /> </p>
 
-- 🌱 I’m currently learning **.Net Core,React**
+- 🌱 I’m currently learning **.Net Core & React**
 
 - 👯 I’m looking to collaborate on **ASP.Net Core and Javascript**
 
