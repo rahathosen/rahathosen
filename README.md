@@ -24,7 +24,8 @@
 <a href="https://www.leetcode.com/rahat_hosen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="rahat_hosen" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahathosen&show_icons=true&locale=en&layout=compact" alt="rahathosen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahathosen&langs_count=8)](https://github.com/rahathosen/github-readme-stats" alt="rahathosen" /></p>
+
 
 
 
