@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rahathosen.me@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 
 <a href="https://linkedin.com/in/rahat-hosen-83a50719b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahat-hosen-83a50719b" height="30" width="40" /></a>
