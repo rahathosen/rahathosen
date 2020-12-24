@@ -22,7 +22,7 @@
 <a href="https://codeforces.com/profile/rahathosen.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rahathosen.me" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahathosen&langs_count=8)](https://github.com/rahathosen/github-readme-stats" alt="rahathosen" /></p>
+
 
 
 
@@ -32,6 +32,9 @@
 
 <!--
 **rahathosen/rahathosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahathosen&langs_count=8)](https://github.com/rahathosen/github-readme-stats" alt="rahathosen" /></p>
+
 
 Here are some ideas to get you started:
 ### Hi there 👋
