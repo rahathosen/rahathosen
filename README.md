@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Team Work**
 
-- 👨‍💻 All of my projects are available at [https://rahathosen.github.io](https://rahathosen.github.io)
+
 
 - 📫 How to reach me **rahathosen.me@gmail.com**
 
@@ -32,6 +32,8 @@
 
 <!--
 **rahathosen/rahathosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 👨‍💻 All of my projects are available at [https://rahathosen.github.io](https://rahathosen.github.io)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahathosen&langs_count=8)](https://github.com/rahathosen/github-readme-stats" alt="rahathosen" /></p>
 
