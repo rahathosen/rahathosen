@@ -18,7 +18,6 @@
 
 <a href="https://fb.com/rahathosen.cse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahathosen.cse" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahat-hosen-83a50719b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahat-hosen-83a50719b" height="30" width="40" /></a>
-
 <a href="https://codeforces.com/profile/rahathosen.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rahathosen.me" height="30" width="40" /></a>
 </p>
 
