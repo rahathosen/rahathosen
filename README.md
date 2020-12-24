@@ -4,16 +4,13 @@
 
 
 - 🌱 I’m currently learning **.Net Core,React**
-
 - 👯 I’m looking to collaborate on **ASP.Net Core and Javascript**
-
 - 🤝 I’m looking for help with **Team Work**
+- 📫 Reach me here **rahathosen.me@gmail.com**
 
-
-
-- 📫 How to reach me **rahathosen.me@gmail.com**
-
-
+### Find Me:
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff0)](https://www.linkedin.com/in/rahat-hosen-83a50719b/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rahathosen.cse/)
 
 
 
