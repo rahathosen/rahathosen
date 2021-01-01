@@ -10,11 +10,16 @@
 ### Find Me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff0)](https://www.linkedin.com/in/rahat-hosen-83a50719b/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rahathosen.cse/)
+[![Visits Badge](https://badges.pufler.dev/visits/rahathosen/rahathosen)](https://github.com/rahathosen)
 
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{rahathosen}/count.svg)
+
+
+
+
+
 
 
 <!--
@@ -28,6 +33,8 @@
 <a href="https://codeforces.com/profile/rahathosen.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rahathosen.me" height="30" width="40" /></a>
 </p>
 
+
+![Visitor Count](https://profile-counter.glitch.me/{rahathosen}/count.svg)
 
 <a href="https://stackoverflow.com/users/12053385" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12053385" height="30" width="40" /></a>
 
