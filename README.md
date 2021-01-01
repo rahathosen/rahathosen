@@ -2,7 +2,6 @@
 
 
 
-
 - 🌱 I’m currently learning **.Net Core,React**
 - 👯 I’m looking to collaborate on **ASP.Net Core and Javascript**
 - 🤝 I’m looking for help with **Team Work**
@@ -16,7 +15,7 @@
 
 
 
-
+![](https://hit.yhype.me/github/profile?user_id=rahathosen)
 
 
 <!--
