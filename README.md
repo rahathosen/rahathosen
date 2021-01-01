@@ -14,8 +14,7 @@
 
 
 
-
-![](https://hit.yhype.me/github/profile?user_id=rahathosen)
+![Visitor Count](https://profile-counter.glitch.me/{rahathosen}/count.svg)
 
 
 <!--
