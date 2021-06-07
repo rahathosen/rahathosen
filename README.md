@@ -3,8 +3,6 @@
 
 
 - 📖 I’m currently learning **ASP .Net Core, Angular & Blazor**
-- ☕ I’m looking to collaborate on **ASP.Net Core **
-- 🤝 I’m looking for help with **Team Work**
 - 📫 Reach me here **rahathosen.me@gmail.com**
 
 
