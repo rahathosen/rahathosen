@@ -2,8 +2,9 @@
 <h2 align="left">Hi there!👋</h2>
 
 
-
-- 📖 I’m currently learning **ASP .Net Core, Angular & Blazor**
+- 📖 I’m full stack web developer in **ASP .Net Core & Angular**
+- 📖 I have experience in **Azur**
+- 📖 I’m currently learning **Blazor**
 - 📫 Reach me here **rahathosen.me@gmail.com**
 
 
