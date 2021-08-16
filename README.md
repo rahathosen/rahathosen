@@ -3,7 +3,7 @@
 
 
 - 📖 I’m full stack web developer in **ASP .Net Core & Angular**
-- 📖 I have experience in **Azur**
+- 📖 I have experience in **Azure**
 - 📖 I’m currently learning **Blazor**
 - 📫 Reach me here **rahathosen.me@gmail.com**
 
