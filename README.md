@@ -2,9 +2,9 @@
 <h2 align="left">Hi there!👋</h2>
 
 
-- 📖 I’m full stack web developer in **ASP .Net Core**
-- 📖 I have experience in **Azure**
-- 📖 I’m currently learning **React & Nodejs**
+- 📖 I’m **Full Stack Engineer**
+- 📖 I’m currently working **React & Nodejs**
+- 📖 I have experience in **ASP .Net Core, Entity Framework, RESTful API's, SQL server, Azure**
 - 📫 Reach me here **rahathosen.me@gmail.com**
 
 
