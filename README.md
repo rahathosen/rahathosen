@@ -4,7 +4,7 @@
 
 - 📖 I’m **Full Stack Engineer**
 - 📖 I’m currently working **React & Nodejs**
-- 📖 I have experience in **ASP .Net Core, Entity Framework, RESTful API's, SQL server, Azure**
+- 📖 I have experience in **Python, ASP .Net Core, Entity Framework, RESTful API's, SQL server, Azure**
 - 📫 Reach me here **rahathosen.me@gmail.com**
 
 
