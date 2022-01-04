@@ -2,7 +2,7 @@
 <h2 align="left">Hi there!👋</h2>
 
 
-- 📖 I’m **Full Stack Engineer**
+- 📖 I’m **Web Engineer**
 - 📖 I’m currently working **React & Nodejs**
 - 📖 I have experience in **Python, ASP .Net Core, Entity Framework, RESTful API's, SQL server, Azure**
 - 📫 Reach me here **rahathosen.exe@gmail.com**
