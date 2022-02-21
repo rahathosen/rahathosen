@@ -3,8 +3,8 @@
 
 
 - 📖 I’m **Web Engineer**
-- 📖 I’m currently working **React & Nodejs**
-- 📖 I have experience in **Python, ASP .Net Core, Entity Framework, RESTful API's, SQL server, Azure**
+- 📖 I’m currently working **React/Next.js, Express.js, MongoDB, GraphQL**
+- 📖 I have experience in **Django, ASP .Net, Entity Framework, RESTful API's, SQL server, Azure**
 - 📫 Reach me here **rahathosen.me@gmail.com**
 
 
