@@ -3,8 +3,8 @@
 
 
 - I’m **Full-Stack Web Engineer**
-- Currently working with **React/Next.js, Express.js, MongoDB, GraphQL, Tailwindcss & Vercel**
-- I have experience in **Django, ASP .Net, Entity Framework, RESTful API's, SQL server, Azure**
+- Currently working with **React/Next.js, Express.js, MongoDB,Firebase, GraphQL, Tailwindcss & Vercel**
+- I have experience in **Django, ASP .Net, Entity Framework, RESTful API's, SQL server, Bootstrap & Azure**
 - Reach me here **rahathosen.me@gmail.com**
 
 
