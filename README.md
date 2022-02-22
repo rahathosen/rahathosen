@@ -3,7 +3,7 @@
 
 
 - 📖 I’m **Web Engineer**
-- 📖 I’m currently working **React/Next.js, Express.js, MongoDB, GraphQL**
+- 📖 I’m currently working **React/Next.js, Express.js, MongoDB, GraphQL & Tailwindcss**
 - 📖 I have experience in **Django, ASP .Net, Entity Framework, RESTful API's, SQL server, Azure**
 - 📫 Reach me here **rahathosen.me@gmail.com**
 
