@@ -6,11 +6,12 @@
 - Currently working with **React/Next.js, Express.js, MongoDB, Firebase, GraphQL, Tailwindcss & Vercel**
 - I have experience in **Django, ASP .Net, Entity Framework, RESTful API's, SQL server, Bootstrap & Azure**
 - Reach me here **rahathosen.me@gmail.com**
+- Personal site **[rahathosen.tech](https://www.rahathosen.tech/)**
 
 
 
-- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff0)](https://www.linkedin.com/in/rahathosen/)
-- [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rahathosen.me/)
+ [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff0)](https://www.linkedin.com/in/rahathosen/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rahathosen.me/)
 
 
 
