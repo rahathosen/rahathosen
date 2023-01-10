@@ -3,7 +3,7 @@
 
 
 
-- I’m **Full-Stack Web Engineer**
+- I’m **Software Engineer**
 - Currently working with **React/Next.js, Express.js, MongoDB, Firebase, GraphQL, Tailwindcss & Vercel**
 - I have experience in **Django, ASP .Net, Entity Framework, RESTful API's, SQL server, Bootstrap & Azure**
 - Portfolio Blog **[rahat.vercel.app](https://rahat.vercel.app/)**
