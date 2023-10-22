@@ -5,7 +5,7 @@
 
 - I’m **Frontend Focus Software Engineer**
 - Currently working with **React/Next.js, PostgreSQL, MongoDB, Prisma, Django, GraphQL, Tailwindcss & Radix UI**
-- I have experience in **Supabase, ASP .Net, Entity Framework, SQL server, Azure**
+- I have experience in **Supabase, ASP .Net, Entity Framework, MS SQL server & Azure**
 - Portfolio Blog **[rahat.vercel.app](https://rahat.vercel.app/)**
 
 <!-- - Reach me here **rahathosen.me@gmail.com** -->
