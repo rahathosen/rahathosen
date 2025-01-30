@@ -3,10 +3,10 @@
 
 
 
-- I’m **Frontend Focus Software Engineer**
-- Currently Deep Dive into **SQL Database**
-- Experience in **Python, Django, Typescript, Next.js, Tailwindcss**
-- Current Role: **Associate Software Engineer at Transcom Limited**
+- I’m a **Software Engineer**
+- Currently Deep Dive into **DevOps and AWS**
+- Experience in **Python, Django, DRF, Node, Typescript, React, Next.js**
+<!-- - Current Role: **Associate Software Engineer at Transcom Limited**  -->
 - Portfolio Blog **[rahat.vercel.app](https://rahat.vercel.app/)**
 
 <!-- - Reach me here **rahathosen.me@gmail.com** -->
