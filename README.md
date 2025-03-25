@@ -1,6 +1,6 @@
 <h2 align="left">Hi there! 👋 I'm Rahat Hosen</h2>
 
-### Software Engineer | Full Stack Developer | DevOps Enthusiast
+### Software Engineer | DevOps Enthusiast
 
 - 💻 **Current Focus**: Deep diving into **DevOps practices and AWS cloud technologies**
 - 🛠 **Tech Stack**: Python (Django, DRF), JavaScript/TypeScript (Node, React, Next.js)
@@ -22,20 +22,20 @@
 **Tech Stack**: Next.js, Tailwind CSS, shadcn/ui, PostgreSQL, Prisma ORM  
 **Features**:
 - Doctor discovery and appointment scheduling system
-- Doctor can provide prescription and prescription is printable.
+- Digital prescription system with printable outputs
 - Patient management dashboard with appointment history
 - Secure authentication and role-based access control
 - Responsive design optimized for both desktop and mobile
 
-#### 🌐 [Velocity Networks Ltd](https://velocitynetworksbd.com/) - International Internet Gateway (IIG) Provider Of Bangladesh
-**Tech Stack**: React, React Router, Django, GraphQL, Coolify (CI/CD) 
+#### 🌐 [Velocity Networks Ltd](https://velocitynetworksbd.com/) - International Internet Gateway (IIG) Provider
+**Tech Stack**: React, React Router, Django, GraphQL, Coolify (CI/CD)  
 **Features**:
-- Secure portal for admin panel.
-- Role-based access control.
-- Modern UI/UX with responsive design.
+- Secure admin portal with role-based access control
+- Modern UI/UX with responsive design
 - Automated CI/CD pipeline using Coolify for seamless deployments
+- Corporate website for Bangladesh's premier IIG provider
 
-#### 🍽 [MSP Meal Share](https://msp-zeta.vercel.app/) - Community Food Sharing
+#### 🍽 [MSP Meal Share](https://msp-zeta.vercel.app/) - Community Food Sharing Platform
 **Tech Stack**: Next.js, shadcn/ui, Tailwind CSS, PostgreSQL, Prisma ORM  
 **Features**:
 - Platform for sharing meals within communities
@@ -52,15 +52,15 @@
 - Personalized news recommendations
 
 #### 🎓 [TechSand International University](https://techsand-international-university.vercel.app/) - Modern University Website
-**Tech Stack**: Next.js, shadcn/ui, Tailwind CSS, Framer motion 
+**Tech Stack**: Next.js, shadcn/ui, Tailwind CSS, Framer Motion  
 **Features**:
 - Comprehensive academic program showcase
 - Faculty and campus information
 - Responsive design with intuitive navigation
+- Animated UI elements for enhanced user experience
 
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahathosen/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahathosen.me@gmail.com)
-
 
