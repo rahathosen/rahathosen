@@ -1,69 +1,66 @@
+<h2 align="left">Hi there! 👋 I'm Rahat Hosen</h2>
 
-<!-- <h2 align="left">Hi there!👋</h2> -->
+### Software Engineer | Full Stack Developer | DevOps Enthusiast
+
+- 💻 **Current Focus**: Deep diving into **DevOps practices and AWS cloud technologies**
+- 🛠 **Tech Stack**: Python (Django, DRF), JavaScript/TypeScript (Node, React, Next.js)
+- ☁️ **Cloud/DevOps**: AWS, Docker, CI/CD pipelines, Coolify
+- 📝 **I write about tech**: [My Blog](https://rahat.vercel.app/)
+
+### Featured Projects
+
+#### 🌟 [Al Quran AI](https://al-quran-ai.vercel.app/) - AI-Powered Quran Platform
+**Tech Stack**: Next.js, shadcn/ui, Tailwind CSS, Google Gemini LLM  
+**Features**:
+- Complete Quran text with multiple translations and audio recitations
+- AI-powered semantic search to find verses by meaning or theme
+- Customizable reading experience with multiple themes and font settings
+- Verse metadata (Juz, Hizb, Ruku) and social sharing with canvas generation
+- Audio playback with multiple reciters and playback controls
+
+#### 🏥 [MediBookBD](https://medibookbd.com/) - Healthcare Appointment System
+**Tech Stack**: Next.js, Tailwind CSS, shadcn/ui, PostgreSQL, Prisma ORM  
+**Features**:
+- Doctor discovery and appointment scheduling system
+- Doctor can provide prescription and prescription is printable.
+- Patient management dashboard with appointment history
+- Secure authentication and role-based access control
+- Responsive design optimized for both desktop and mobile
+
+#### 🌐 [Velocity Networks Ltd](https://velocitynetworksbd.com/) - International Internet Gateway (IIG) Provider Of Bangladesh
+**Tech Stack**: React, React Router, Django, GraphQL, Coolify (CI/CD) 
+**Features**:
+- Secure portal for admin panel.
+- Role-based access control.
+- Modern UI/UX with responsive design.
+- Automated CI/CD pipeline using Coolify for seamless deployments
+
+#### 🍽 [MSP Meal Share](https://msp-zeta.vercel.app/) - Community Food Sharing
+**Tech Stack**: Next.js, shadcn/ui, Tailwind CSS, PostgreSQL, Prisma ORM  
+**Features**:
+- Platform for sharing meals within communities
+- User profiles and meal posting functionality
+- Search and filtering system
+- Secure authentication and data management
+
+#### 📰 [AI Newspaper](https://ai-newspaper-kappa.vercel.app/) - Next-Gen News Platform
+**Tech Stack**: Next.js, shadcn/ui, Tailwind CSS  
+**Features**:
+- AI-generated news summaries
+- Interactive chat interface to discuss news articles
+- Clean, modern reading experience
+- Personalized news recommendations
+
+#### 🎓 [TechSand International University](https://techsand-international-university.vercel.app/) - Modern University Website
+**Tech Stack**: Next.js, shadcn/ui, Tailwind CSS, Framer motion 
+**Features**:
+- Comprehensive academic program showcase
+- Faculty and campus information
+- Responsive design with intuitive navigation
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahathosen/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahathosen.me@gmail.com)
 
 
-
-- I’m a **Software Engineer**
-- Currently Deep Dive into **DevOps and AWS**
-- Experience in **Python, Django, DRF, Node, Typescript, React, Next.js**
-<!-- - Current Role: **Associate Software Engineer at Transcom Limited**  -->
-- Portfolio Blog **[rahat.vercel.app](https://rahat.vercel.app/)**
-
-<!-- - Reach me here **rahathosen.me@gmail.com** -->
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff0)](https://www.linkedin.com/in/rahathosen/)
-<!-- [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rahathosen.me/) -->
-
-
-
-
-
-
-
-
-<h2 align="left"></h2>
-
-
-
-
-
-<!--
-**rahathosen/rahathosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 👨‍💻 All of my projects are available at [https://rahathosen.github.io](https://rahathosen.github.io)
-
-<p align="left">
-<a href="https://fb.com/rahathosen.cse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahathosen.cse" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahat-hosen-83a50719b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahat-hosen-83a50719b" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rahathosen.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rahathosen.me" height="30" width="40" /></a>
-</p>
-
-
-![Visitor Count](https://profile-counter.glitch.me/{rahathosen}/count.svg)
-
-<a href="https://stackoverflow.com/users/12053385" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12053385" height="30" width="40" /></a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahathosen&langs_count=8)](https://github.com/rahathosen/github-readme-stats" alt="rahathosen" /></p>
-
-
-Here are some ideas to get you started:
-### Hi there 👋
-
-- 🌱 I’m currently learning .Net Core and JavaScript
-- 👯 I’m looking to collaborate on Core application
-- 📫 How to reach me: [Facebook](https://www.facebook.com/rahathosen.cse/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: guess what!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahathosen&layout=compact)
-
-![Rahat's github stats](https://github-readme-stats.vercel.app/api?username=rahathosen&show_icons=true&theme=react )
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
