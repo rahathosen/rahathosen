@@ -7,7 +7,7 @@
 - ☁️ **Cloud/DevOps**: AWS, Docker, CI/CD pipelines, Coolify
 - 📝 **I write about tech**: [My Blog](https://rahat.vercel.app/)
 
-### Featured Projects
+### Recent Work
 
 #### 🌟 [Al Quran AI](https://al-quran-ai.vercel.app/) - AI-Powered Quran Platform
 **Tech Stack**: Next.js, shadcn/ui, Tailwind CSS, Google Gemini LLM  
